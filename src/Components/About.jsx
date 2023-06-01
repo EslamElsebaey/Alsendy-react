@@ -137,7 +137,7 @@ export default function About() {
         <div className="office-item">
                     <div className="office-item-cont">
                       <div className="img-holder">
-                        <img src="/images/about/office-img.png"  alt="" />
+                        <img src="images/about/office-img.png"  alt="" />
                       </div>
                       <div className="office-item-details">
                         <h3>مكتب عبدالقادر علي سندي</h3>
