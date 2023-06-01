@@ -17,7 +17,7 @@ import '../src/style/main.css';
 
 
 import App from './App';
-import { BrowserRouter } from 'react-router-dom';
+import { HashRouter } from 'react-router-dom';
 
 // window.jQuery = jQuery;
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -26,9 +26,9 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   
   <div>
-    <BrowserRouter>
+    <HashRouter>
     <App />
-    </BrowserRouter>
+    </HashRouter>
      
     
 
