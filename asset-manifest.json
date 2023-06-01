@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Alsendy-react/static/css/main.70e0ee32.css",
-    "main.js": "/Alsendy-react/static/js/main.df2941af.js",
+    "main.js": "/Alsendy-react/static/js/main.feabc74b.js",
     "static/media/la-brands-400.svg": "/Alsendy-react/static/media/la-brands-400.928495fae14841a0d610.svg",
     "static/media/la-solid-900.svg": "/Alsendy-react/static/media/la-solid-900.a813034654b4ff0a0bac.svg",
     "static/media/fa-solid-900.svg": "/Alsendy-react/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
@@ -64,10 +64,10 @@
     "static/media/la-regular-400.woff2": "/Alsendy-react/static/media/la-regular-400.8dc1cedf1f4987f82b72.woff2",
     "index.html": "/Alsendy-react/index.html",
     "main.70e0ee32.css.map": "/Alsendy-react/static/css/main.70e0ee32.css.map",
-    "main.df2941af.js.map": "/Alsendy-react/static/js/main.df2941af.js.map"
+    "main.feabc74b.js.map": "/Alsendy-react/static/js/main.feabc74b.js.map"
   },
   "entrypoints": [
     "static/css/main.70e0ee32.css",
-    "static/js/main.df2941af.js"
+    "static/js/main.feabc74b.js"
   ]
 }
