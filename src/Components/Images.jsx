@@ -52,7 +52,7 @@ export default function Images() {
 <div className="container">
     <div className="images-parent">
         <div className="image-item">
-            <a  data-caption=" ما هى السلع و الخدمات" href="/images/images library/01.png" data-fancybox="images-library">
+            <a  data-caption=" ما هى السلع و الخدمات" href="images/images library/01.png" data-fancybox="images-library">
                 <div className="image-div">
                   <img src="images/images library/01.png" alt="" />
                   <div className="image-overlay">
@@ -62,7 +62,7 @@ export default function Images() {
               </a>
         </div>
         <div className="image-item">
-            <a  data-caption="خطوات افتتاح اجراء افلاس  " href="/images/images library/02.png" data-fancybox="images-library">
+            <a  data-caption="خطوات افتتاح اجراء افلاس  " href="images/images library/02.png" data-fancybox="images-library">
                 <div className="image-div">
                   <img src="images/images library/02.png" alt="" />
                   <div className="image-overlay">
@@ -72,7 +72,7 @@ export default function Images() {
               </a>
         </div>
         <div className="image-item">
-            <a data-caption="ما هى متطلبات التسجيل" href="/images/images library/03.png" data-fancybox="images-library">
+            <a data-caption="ما هى متطلبات التسجيل" href="images/images library/03.png" data-fancybox="images-library">
                 <div className="image-div">
                   <img src="images/images library/03.png" alt="" />
                   <div className="image-overlay">
@@ -82,7 +82,7 @@ export default function Images() {
               </a>
         </div>
         <div className="image-item">
-            <a data-caption="خطوات تسجيل الافراد الذين يمارسون نشاط تجارى" href="/images/images library/04.png" data-fancybox="images-library">
+            <a data-caption="خطوات تسجيل الافراد الذين يمارسون نشاط تجارى" href="images/images library/04.png" data-fancybox="images-library">
                 <div className="image-div">
                   <img src="images/images library/04.png" alt="" />
                   <div className="image-overlay">
@@ -92,7 +92,7 @@ export default function Images() {
               </a>
         </div>
         <div className="image-item">
-            <a data-caption="شروط تسجيل المجموعة الضريبية " href="/images/images library/05.png" data-fancybox="images-library">
+            <a data-caption="شروط تسجيل المجموعة الضريبية " href="images/images library/05.png" data-fancybox="images-library">
                 <div className="image-div">
                   <img src="images/images library/05.png" alt="" />
                   <div className="image-overlay">
@@ -102,7 +102,7 @@ export default function Images() {
               </a>
         </div>
         <div className="image-item">
-            <a data-caption="طرق تساعدك على توفير المال" href="/images/images library/06.png" data-fancybox="images-library">
+            <a data-caption="طرق تساعدك على توفير المال" href="images/images library/06.png" data-fancybox="images-library">
                 <div className="image-div">
                   <img src="images/images library/06.png" alt="" />
                   <div className="image-overlay">
@@ -112,7 +112,7 @@ export default function Images() {
               </a>
         </div>
         <div className="image-item">
-            <a data-caption="الفاتورة الضريبية" href="/images/images library/07.png" data-fancybox="images-library">
+            <a data-caption="الفاتورة الضريبية" href="images/images library/07.png" data-fancybox="images-library">
                 <div className="image-div">
                   <img src="images/images library/07.png" alt="" />
                   <div className="image-overlay">
@@ -122,7 +122,7 @@ export default function Images() {
               </a>
         </div>
         <div className="image-item">
-            <a data-caption="الفاتورة الضريبية المبسطة" href="/images/images library/08.png" data-fancybox="images-library">
+            <a data-caption="الفاتورة الضريبية المبسطة" href="images/images library/08.png" data-fancybox="images-library">
                 <div className="image-div">
                   <img src="images/images library/08.png" alt="" />
                   <div className="image-overlay">
@@ -132,7 +132,7 @@ export default function Images() {
               </a>
         </div>
         <div className="image-item">
-            <a data-caption="غرامة عدم تقديم الاقرار الضريبى " href="/images/images library/09.png" data-fancybox="images-library">
+            <a data-caption="غرامة عدم تقديم الاقرار الضريبى " href="images/images library/09.png" data-fancybox="images-library">
                 <div className="image-div">
                   <img src="images/images library/09.png" alt="" />
                   <div className="image-overlay">
@@ -142,7 +142,7 @@ export default function Images() {
               </a>
         </div>
         <div className="image-item">
-            <a data-caption="علامات تدل على انك بحاجة الى محاسب " href="/images/images library/10.png" data-fancybox="images-library">
+            <a data-caption="علامات تدل على انك بحاجة الى محاسب " href="images/images library/10.png" data-fancybox="images-library">
                 <div className="image-div">
                   <img src="images/images library/10.png" alt="" />
                   <div className="image-overlay">
@@ -152,7 +152,7 @@ export default function Images() {
               </a>
         </div>
         <div className="image-item">
-            <a data-caption="متطلبات الافصاح المالى فى القاوئم المالية " href="/images/images library/11.png" data-fancybox="images-library">
+            <a data-caption="متطلبات الافصاح المالى فى القاوئم المالية " href="images/images library/11.png" data-fancybox="images-library">
                 <div className="image-div">
                   <img src="images/images library/11.png" alt="" />
                   <div className="image-overlay">
@@ -162,7 +162,7 @@ export default function Images() {
               </a>
         </div>
         <div className="image-item">
-            <a data-caption="اسباب اهمية المحاسب للنشاط التجارى" href="/images/images library/12.png" data-fancybox="images-library">
+            <a data-caption="اسباب اهمية المحاسب للنشاط التجارى" href="images/images library/12.png" data-fancybox="images-library">
                 <div className="image-div">
                   <img src="images/images library/12.png" alt="" />
                   <div className="image-overlay">
