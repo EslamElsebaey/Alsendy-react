@@ -62,7 +62,7 @@ export default function Blog() {
             <div className="blog-content">
               <div className="news-item">
                 <div className="news-img-wrapper">
-                  <a href="#"> <img src="/images/blog/01.png" alt="image" /></a>
+                  <a href="#"> <img src="images/blog/01.png" alt="image" /></a>
                   <div className="news-views">
                     <i className=" las la-eye"></i>
                     2158
@@ -76,7 +76,7 @@ export default function Blog() {
             </div>
             <div className="news-item">
               <div className="news-img-wrapper">
-                <a href="#"> <img src="/images/blog/02.png" alt="image" /></a>
+                <a href="#"> <img src="images/blog/02.png" alt="image" /></a>
                 <div className="news-views">
                   <i className=" las la-eye"></i>
                   2158
@@ -94,7 +94,7 @@ export default function Blog() {
             <div className="blog-content">
                   <div className="news-item">
                     <div className="news-img-wrapper">
-                      <a href="#"> <img src="/images/blog/03.png" alt="image" /></a>
+                      <a href="#"> <img src="images/blog/03.png" alt="image" /></a>
                       <div className="news-views">
                         <i className=" las la-eye"></i>
                         2158
@@ -108,7 +108,7 @@ export default function Blog() {
                   </div>
                   <div className="news-item">
                     <div className="news-img-wrapper">
-                      <a href="#"> <img src="/images/blog/04.png" alt="image" /></a>
+                      <a href="#"> <img src="images/blog/04.png" alt="image" /></a>
                       <div className="news-views">
                         <i className=" las la-eye"></i>
                         2158
@@ -128,7 +128,7 @@ export default function Blog() {
             <div className="blog-content">
                   <div className="news-item">
                     <div className="news-img-wrapper">
-                      <a href="#"> <img src="/images/blog/05.png" alt="image" /></a>
+                      <a href="#"> <img src="images/blog/05.png" alt="image" /></a>
                       <div className="news-views">
                         <i className=" las la-eye"></i>
                         2158
@@ -142,7 +142,7 @@ export default function Blog() {
                   </div>
                   <div className="news-item">
                     <div className="news-img-wrapper">
-                      <a href="#"> <img src="/images/blog/06.png" alt="image" /></a>
+                      <a href="#"> <img src="images/blog/06.png" alt="image" /></a>
                       <div className="news-views">
                         <i className=" las la-eye"></i>
                         2158
@@ -161,7 +161,7 @@ export default function Blog() {
             <div className="blog-content">
                 <div className="news-item">
                     <div className="news-img-wrapper">
-                      <a href="#"> <img src="/images/blog/01.png" alt="image" /></a>
+                      <a href="#"> <img src="images/blog/01.png" alt="image" /></a>
                       <div className="news-views">
                         <i className=" las la-eye"></i>
                         2158
@@ -175,7 +175,7 @@ export default function Blog() {
                 </div>
                 <div className="news-item">
                     <div className="news-img-wrapper">
-                      <a href="#"> <img src="/images/blog/02.png" alt="image" /></a>
+                      <a href="#"> <img src="images/blog/02.png" alt="image" /></a>
                       <div className="news-views">
                         <i className=" las la-eye"></i>
                         2158

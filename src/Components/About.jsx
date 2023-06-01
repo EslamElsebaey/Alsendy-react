@@ -150,7 +150,7 @@ export default function About() {
         <div className="office-item">
                     <div className="office-item-cont">
                       <div className="img-holder">
-                        <img src="/images/about/office-img.png"  alt="" />
+                        <img src="images/about/office-img.png"  alt="" />
                       </div>
                       <div className="office-item-details">
                         <h3>مكتب عبدالقادر علي سندي</h3>
@@ -163,7 +163,7 @@ export default function About() {
         <div className="office-item">
                     <div className="office-item-cont">
                       <div className="img-holder">
-                        <img src="/images/about/office-img.png"  alt="" />
+                        <img src="images/about/office-img.png"  alt="" />
                       </div>
                       <div className="office-item-details">
                         <h3>مكتب عبدالقادر علي سندي</h3>
@@ -176,7 +176,7 @@ export default function About() {
         <div className="office-item">
                     <div className="office-item-cont">
                       <div className="img-holder">
-                        <img src="/images/about/office-img.png"  alt="" />
+                        <img src="images/about/office-img.png"  alt="" />
                       </div>
                       <div className="office-item-details">
                         <h3>مكتب عبدالقادر علي سندي</h3>
@@ -189,7 +189,7 @@ export default function About() {
         <div className="office-item">
                     <div className="office-item-cont">
                       <div className="img-holder">
-                        <img src="/images/about/office-img.png"  alt="" />
+                        <img src="images/about/office-img.png"  alt="" />
                       </div>
                       <div className="office-item-details">
                         <h3>مكتب عبدالقادر علي سندي</h3>
@@ -202,7 +202,7 @@ export default function About() {
         <div className="office-item">
                     <div className="office-item-cont">
                       <div className="img-holder">
-                        <img src="/images/about/office-img.png"  alt="" />
+                        <img src="images/about/office-img.png"  alt="" />
                       </div>
                       <div className="office-item-details">
                         <h3>مكتب عبدالقادر علي سندي</h3>
@@ -215,7 +215,7 @@ export default function About() {
         <div className="office-item">
                     <div className="office-item-cont">
                       <div className="img-holder">
-                        <img src="/images/about/office-img.png"  alt="" />
+                        <img src="images/about/office-img.png"  alt="" />
                       </div>
                       <div className="office-item-details">
                         <h3>مكتب عبدالقادر علي سندي</h3>
@@ -228,7 +228,7 @@ export default function About() {
         <div className="office-item">
                     <div className="office-item-cont">
                       <div className="img-holder">
-                        <img src="/images/about/office-img.png"  alt="" />
+                        <img src="images/about/office-img.png"  alt="" />
                       </div>
                       <div className="office-item-details">
                         <h3>مكتب عبدالقادر علي سندي</h3>
@@ -241,7 +241,7 @@ export default function About() {
         <div className="office-item">
                     <div className="office-item-cont">
                       <div className="img-holder">
-                        <img src="/images/about/office-img.png"  alt="" />
+                        <img src="images/about/office-img.png"  alt="" />
                       </div>
                       <div className="office-item-details">
                         <h3>مكتب عبدالقادر علي سندي</h3>
@@ -254,7 +254,7 @@ export default function About() {
         <div className="office-item">
                     <div className="office-item-cont">
                       <div className="img-holder">
-                        <img src="/images/about/office-img.png"  alt="" />
+                        <img src="images/about/office-img.png"  alt="" />
                       </div>
                       <div className="office-item-details">
                         <h3>مكتب عبدالقادر علي سندي</h3>
@@ -267,7 +267,7 @@ export default function About() {
         <div className="office-item">
                     <div className="office-item-cont">
                       <div className="img-holder">
-                        <img src="/images/about/office-img.png"  alt="" />
+                        <img src="images/about/office-img.png"  alt="" />
                       </div>
                       <div className="office-item-details">
                         <h3>مكتب عبدالقادر علي سندي</h3>
@@ -280,7 +280,7 @@ export default function About() {
         <div className="office-item">
                     <div className="office-item-cont">
                       <div className="img-holder">
-                        <img src="/images/about/office-img.png"  alt="" />
+                        <img src="images/about/office-img.png"  alt="" />
                       </div>
                       <div className="office-item-details">
                         <h3>مكتب عبدالقادر علي سندي</h3>
@@ -312,21 +312,21 @@ export default function About() {
   <div className="priorities-parent">
       <div className="priority-item">
         <div className="img-holder">
-          <img src="/images/about/priorities/01.png"  alt="" />
+          <img src="images/about/priorities/01.png"  alt="" />
         </div>
         <h3>العملاء</h3>
         <p>تلبية احتياجات عملائنا ومساعدتهم في تحقيق اهدافهم وتعزيز الثقة والولاء</p>
       </div>
       <div className="priority-item">
         <div className="img-holder">
-          <img src="/images/about/priorities/02.png"  alt="" />
+          <img src="images/about/priorities/02.png"  alt="" />
         </div>
         <h3>العمليات الداخلية</h3>
         <p>تقديم الخدمات بمهنية واحترافية والسرعة في الإنجاز والتنسيق الفعال مع الجهات ذات العلاقة والدراسة الدائمة لإحتياجات أصحاب العلاقة والبحث عن أفضل الممارسات لتلبيتها </p>
       </div>
       <div className="priority-item">
         <div className="img-holder">
-          <img src="/images/about/priorities/03.png"  alt="" />
+          <img src="images/about/priorities/03.png"  alt="" />
         </div>
         <h3>التعلم والنمو </h3>
       <p>استقطاب واستبقاء كوادر راغبة وقادرة على الأداء وبناء مناخ عمل مهني وايجابي والتأهيل المهني للكوادر والاستخدام الأمثل للتقنية</p>

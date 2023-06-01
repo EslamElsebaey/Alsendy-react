@@ -55,7 +55,7 @@ openBtn.addEventListener("click" , function(){
       
       <header>
       <div className="logo">
-      <Link to="/home">   <img  src="/images/logo.png" alt="" /> </Link>
+      <Link to="/home">   <img  src="images/logo.png" alt="" /> </Link>
       </div>
       <div className="main-header-cont">
       <div className="top-header">
